@@ -11,6 +11,7 @@ Reglas:
 
  
 
+
 Mas info: 
 - Explicación: http://www.enriquegracian.com/articulos/el-juego-de-la-vida
 - El propio John Conway hablando sobre su creación: https://www.youtube.com/watch?v=E8kUJL04ELA
