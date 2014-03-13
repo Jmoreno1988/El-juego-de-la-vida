@@ -1,6 +1,6 @@
 El juego de la vida  
 ===================
--John Conway, 1970-
+<John Conway, 1970>
 
 
 Reglas:
